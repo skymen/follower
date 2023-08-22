@@ -14,4 +14,4 @@ node ./dev.js
 
 The build uses the pluginConfig file to generate everything else.
 
-The main files you may want to look at would be instance.js and scriptInterface.js
+The main files you may want to look at would be instance.js and scriptInterface.js.
